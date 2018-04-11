@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "256820674199",
+    "firebase_url": "https://pushnotificationexample-dcd5c.firebaseio.com",
+    "project_id": "pushnotificationexample-dcd5c",
+    "storage_bucket": "pushnotificationexample-dcd5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256820674199:android:096509f0b868a337",
+        "android_client_info": {
+          "package_name": "com.example.bhoomi.pushnotificationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256820674199-kkq8kvrh3cnbaq8md97g2kdb2bfje1j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XkiSxF-KR_GZSZQvOuU9Fi9CKDd-HsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
